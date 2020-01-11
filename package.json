@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "MERN Stack First App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelhamed07/MERN-Stack-App.git"
+  },
+  "author": "Abdelhamed Saeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelhamed07/MERN-Stack-App/issues"
+  },
+  "homepage": "https://github.com/Abdelhamed07/MERN-Stack-App#readme"
+}
